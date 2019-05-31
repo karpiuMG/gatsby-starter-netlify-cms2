@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: tes5
+title: tes512
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience24
 subheading: Support sustainable farming while enjoying a cup
